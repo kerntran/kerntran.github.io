@@ -27,6 +27,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
+skin: night
 # theme: minima
 plugins:
   - jekyll-feed
