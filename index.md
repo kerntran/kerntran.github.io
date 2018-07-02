@@ -4,6 +4,8 @@
 
 layout: home
 ---
+image:
+ path: https://pixabay.com/get/ec3cb20c29f71c22d9584518a33219c8b66ae3d01ab1144694f9c07b/children-593313_1920.jpg
 This is a test of index.md
 
 ![alt text](https://pixabay.com/get/ec3cb20c29f71c22d9584518a33219c8b66ae3d01ab1144694f9c07b/children-593313_1920.jpg)
