@@ -40,3 +40,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Collections
+collections:
+  lessons:
+    output: true
+permalink: /:collection/:path/
