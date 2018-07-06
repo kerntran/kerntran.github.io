@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kernals and Transformations
+title: Kernels and Transformations
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  An introduction to generative grammar, in film noir style
